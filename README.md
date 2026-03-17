@@ -10,6 +10,7 @@
 + Role: Future Software Engineer
 + Main Language: C++
 + Status: Leveling up every day ⚡
++ 
 ⚡ Skills
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,vscode,git,github" />
