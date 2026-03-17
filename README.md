@@ -10,6 +10,4 @@
 + Role: Future Software Engineer
 + Main Language: C++
 + Status: Leveling up every day ⚡
-<p> <img src="https://skillicons.dev/icons?i=cpp,vscode,git,github" /> </p>
-<p> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Miloskimoto&show_icons=true&theme=tokyonight"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miloskimoto&layout=compact&theme=tokyonight"/> </p>
-<p> <img src="https://github.com/Miloskimoto/Miloskimoto/blob/output/github-contribution-grid-snake.svg" /> </p> ```
+
