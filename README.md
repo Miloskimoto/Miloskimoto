@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">⚔️ Miloski Phantom ⚔️</h1>
 
-<!--
-**Miloskimoto/Miloskimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+world...;Future+Elite+Developer;C%2B%2B+Warrior;Leveling+Up+Everyday+⚡" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+```diff
++ Name: Miloski Phantom
++ Role: Future Software Engineer
++ Main Language: C++
++ Status: Leveling up every day ⚡
+<p> <img src="https://skillicons.dev/icons?i=cpp,vscode,git,github" /> </p>
+<p> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Miloskimoto&show_icons=true&theme=tokyonight"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miloskimoto&layout=compact&theme=tokyonight"/> </p>
+<p> <img src="https://github.com/Miloskimoto/Miloskimoto/blob/output/github-contribution-grid-snake.svg" /> </p> ```
